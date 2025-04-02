@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.3.14)  22 MAR 2025 13:13
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.3.22)  2 APR 2025 08:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1133,6 +1133,9 @@ LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(3)/m/n' will be
 (Font)              scaled to size 12.0437pt on input line 47.
 LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(3)/m/n' will be
 (Font)              scaled to size 9.03276pt on input line 47.
+ [1
+
+]
 
 Package fontspec Info: Could not resolve font "Noto Sans Mono CJK SC/I" (it
 (fontspec)             probably doesn't exist).
@@ -1155,36 +1158,31 @@ Package fontspec Info: Font family 'NotoSansMonoCJKSC(0)' created for font
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(2)/m/n' will be
-(Font)              scaled to size 8.91425pt on input line 73.
+(Font)              scaled to size 8.91425pt on input line 77.
 LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(2)/m/n' will be
-(Font)              scaled to size 6.62546pt on input line 73.
+(Font)              scaled to size 6.62546pt on input line 77.
 LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(3)/m/n' will be
-(Font)              scaled to size 8.91234pt on input line 73.
+(Font)              scaled to size 8.91234pt on input line 77.
 LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(3)/m/n' will be
-(Font)              scaled to size 6.62404pt on input line 73.
- [1
-
-]
-Package pgfplots info on input line 128: Using 'lua backend=false' for axis: xmode=log unsupported (yet).
-Package pgfplots info on input line 128: Using 'lua backend=false' for axis: ymode=log unsupported (yet).
+(Font)              scaled to size 6.62404pt on input line 77.
+ [2]
+Package pgfplots info on input line 184: Using 'lua backend=false' for axis: xmode=log unsupported (yet).
+Package pgfplots info on input line 184: Using 'lua backend=false' for axis: ymode=log unsupported (yet).
 
 NOTE: coordinate (1Y1.0e3],0Y0.0e0]) has been dropped because it is unbounded (in y). (see also unbounded coords=jump). 
 NOTE: coordinate (1Y1.0e3],0Y0.0e0]) has been dropped because it is unbounded (in y). (see also unbounded coords=jump). 
 NOTE: coordinate (1Y1.0e3],0Y0.0e0]) has been dropped because it is unbounded (in y). (see also unbounded coords=jump). 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2] [3] (./report.aux)
+[3] [4] [5] (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: BD6CDBC610653B44DF1BB57EEEB1952C;1009.
+(rerunfilecheck)             Checksum: E5AF80CC501F655F53F172D8E7640BC7;1191.
  ) 
 Here is how much of TeX's memory you used:
- 40943 strings out of 477756
- 981881 string characters out of 5843518
- 1485175 words of memory out of 5000000
- 60916 multiletter control sequences out of 15000+600000
+ 40956 strings out of 476191
+ 982623 string characters out of 5812072
+ 1494051 words of memory out of 5000000
+ 61028 multiletter control sequences out of 15000+600000
  475689 words of font info for 124 fonts, out of 8000000 for 9000
- 264 hyphenation exceptions out of 8191
+ 1348 hyphenation exceptions out of 8191
  103i,17n,114p,746b,2268s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.pdf (3 pages).
+Output written on report.pdf (5 pages).
